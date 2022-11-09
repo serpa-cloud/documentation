@@ -9,8 +9,8 @@ const config = {
   title: "Serpa Cloud",
   tagline:
     "Serpa es tu guía para llevar cualquier código a tu cuenta Cloud, es hora de enfocarte en crear tu producto.",
-  url: "https://beta.serpa.cloud/",
-  baseUrl: "/documentation/",
+  url: "https://docs.serpa.cloud/",
+  baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
