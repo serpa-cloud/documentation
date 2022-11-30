@@ -22,3 +22,7 @@ Usando una App en Serpa podrías generar cualquier tipo de _microservicio_, _web
 Puedes desplegar culaquier tipo de aplicación y servicio como App, sin embargo para sitios estáticos basado en HTML, CSS y JS, te recomendamos desplegarlos como app estática, ya que es más eficiente en términos de **performance** y **costos**.
 
 :::
+
+## Ver listado de aplicaciones
+
+Para ver el listado de aplicaciones creadas, da click en el menú principal en la sección [Apps](https://beta.serpa.cloud/dashboard/projects/apps)

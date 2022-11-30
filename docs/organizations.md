@@ -10,7 +10,7 @@ Una organización es un lugar donde puedes colaborar con tu equipo para crear ap
 2. Si es la primera vez que entras la plataforma redireccionara a el formulario para [Crear una nueva Organización](https://beta.serpa.cloud/organizations/create-new-organization), en caso contrario en la parte superior derecha de la pantalla encontrás el selector de organizaciones con la opción de **Crear una nueva organización**
 3. Selecciona una `Clave de proyecto`, esta clave sera el identificador único de tu organización (este identificador es único para cada organización en _Serpa_) y servirá para identificar los recursos creados dentro de esta.
 4. Completa los campos del formulario.
-5. (Opcional) Puedes agregar una imágen para agregar un logotipo a tu aplicación.
+5. (Opcional) Puedes agregar una imágen para agregar un logotipo a tu organización.
 
 ## Ver todas tus organizaciones
 

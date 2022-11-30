@@ -25,7 +25,7 @@ const sidebars = {
         type: "doc",
       },
       collapsed: true,
-      items: ["organizations", "cloud-accounts"],
+      items: ["organizations", "quick-flow", "cloud-accounts"],
     },
     {
       type: "category",
@@ -35,7 +35,44 @@ const sidebars = {
         type: "doc",
       },
       collapsed: true,
-      items: ["apps/index"],
+      items: [
+        {
+          type: "category",
+          label: "Apps",
+          link: {
+            id: "apps/index",
+            type: "doc",
+          },
+          collapsed: true,
+          items: [
+            "apps/create-app",
+            "apps/builds",
+            "apps/versions",
+            "apps/release-channels",
+          ],
+        },
+        {
+          type: 'category',
+          label : 'Kubernetes',
+          link: {
+            id: "infrastructure/kubernetes",
+            type: "doc",
+          },
+          collapsed: true,
+          items: [
+            "workspaces/index",
+            "workspaces/services",
+            "workspaces/deployments",
+            "workspaces/lb",
+          ]
+        }
+      ],
+    },
+    {
+      type: "category",
+      label: "Otros",
+      collapsed: true,
+      items: ["others/git-repos", "others/ci-cd", "others/env-vars"],
     },
   ],
 
