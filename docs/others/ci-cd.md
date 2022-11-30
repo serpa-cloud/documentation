@@ -4,7 +4,7 @@ Para crear una app, sigue los siguientes pasos:
 
 :::tip
 
-Antes de crear una app aseguráte de leer la información sobre como conectar [Repositorios git](/docs/apps/git-repos)
+Antes de crear una app aseguráte de leer la información sobre como conectar [Repositorios git](/docs/others/git-repos)
 
 :::
 
